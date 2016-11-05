@@ -1,0 +1,2 @@
+image: kenwan/aws-cli
+build: ./docker_build
